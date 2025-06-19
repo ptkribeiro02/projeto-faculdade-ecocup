@@ -1,2 +1,2 @@
 # projeto-faculdade-ecocup
-um projeto feito para faculdade
+um projeto para faculdade
